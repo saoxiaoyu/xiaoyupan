@@ -20,3 +20,4 @@
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
 </script>
+<p>Copyrights © 2021-现在</p>
