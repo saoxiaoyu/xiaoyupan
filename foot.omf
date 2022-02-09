@@ -1,0 +1,22 @@
+<script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
+<div id="vcomments"></div>
+<style>.vpower{display:none;}</style>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'tX4oij4uadmRxIXMfg0NiHCU-gzGzoHsz',
+        appKey: 'acNgTWlcCkgvvGkh71w0c7rG'
+    })
+</script>
+<script>
+    (function(d, w, c) {
+        w.ChatraID = 'wDKJ9QJsbm32u8fuh';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
+        s.async = true;
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+</script>
