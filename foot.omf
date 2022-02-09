@@ -1,3 +1,4 @@
+<p>Copyrights © 2021-现在</p>
 <script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
 <div id="vcomments"></div>
 <style>.vpower{display:none;}</style>
@@ -20,4 +21,4 @@
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
 </script>
-<p>Copyrights © 2021-现在</p>
+
